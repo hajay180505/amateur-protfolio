@@ -14,15 +14,14 @@ whois = [
   'I am Ajay H (<a href="https://www.youtube.com/watch?v=rFjJs6ZjPe8" target="_blank">Mr.Perfectly fine</a>), an undergraduate student pursuing Masters in Software Systems at <a href="https://www.psgtech.edu/" target="_blank"> PSG Tech</a>. ',
   "I like origami, papercraft and recently, crocheting.",
   "I am interested in open source softwares , GNU/Linux and back-end development,",
-    'as you are seeing with the interface that you are presented with. :)',
-  "I've currently stumbled on to front-end development, and you all will be a casualty of it.",
-  'I\'m a proud swiftie and a vim enthusiast.',
-    'Feel free to contact me on a sane time!',
-  'Or, if you got the references that I sprinkled here, lemme know',
-  'Now, normally there will be a nice conclusion, but I am infamous for my awkward conclusions.',
-    'So, I bid thy farewell.. have a great day!',
-    'May the force be with you!',
-  "<br>"
+  "as you are seeing with the interface that you are presented with. :)",
+  "I've currently stumbled on to front-end development, and you all will be casualties of it.",
+  "I'm a proud swiftie and a vim enthusiast.",
+  "Feel free to contact me on a sane time!",
+  "Or, if you got the references that I sprinkled here, lemme know",
+  "Now, normally there will be a nice conclusion, but I am Ajay.",
+  "So, I bid thy farewell.. have a great day!",
+  "<br>",
 ];
 
 whatami = [
