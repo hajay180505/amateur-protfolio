@@ -4,19 +4,24 @@ var linkedin = "https://www.linkedin.com/in/hajay180505/";
 var instagram = "https://www.instagram.com/hajay180505/";
 var github = "https://github.com/hajay180505";
 var email = 'mailto:hajay180505@gmail.com';
+var instagram_art = "https://www.instagram.com/rohan_krishibe/";
+var pinterest = "https://www.pinterest.com/hajay180505/";
 
 whois = [
   "<br>",
   "¡Hola! 👋 ¿Cómo estás?",
   "Wait... don't go yet.. Imma continue in english..",
-  'I am Ajay H (<a href="https://www.youtube.com/watch?v=rFjJs6ZjPe8" target="_blank">Mr.Perfectly fine</a>), an undergraduate student pursuing Masters in Software Systems at <a href="https://www.psgtech.edu/" target="_blank"> PSG Tech </a>. ',
-  "I like origami, papercraft and recently, embroidering.",
-  "I am interested in open source softwares , linux (not arch rn) and back-end development,",
-  'as you are seeing with the interface that you are presented with. :)',
-  'I am a selenator turned swiftie and a vim enthusiast.',
-  'Feel free to contact me on a sane time!',
+  'I am Ajay H (<a href="https://www.youtube.com/watch?v=rFjJs6ZjPe8" target="_blank">Mr.Perfectly fine</a>), an undergraduate student pursuing Masters in Software Systems at <a href="https://www.psgtech.edu/" target="_blank"> PSG Tech</a>. ',
+  "I like origami, papercraft and recently, crocheting.",
+  "I am interested in open source softwares , GNU/Linux and back-end development,",
+    'as you are seeing with the interface that you are presented with. :)',
+  "I've currently stumbled on to front-end development, and you all will be a casualty of it.",
+  'I\'m a proud swiftie and a vim enthusiast.',
+    'Feel free to contact me on a sane time!',
+  'Or, if you got the references that I sprinkled here, lemme know',
   'Now, normally there will be a nice conclusion, but I am infamous for my awkward conclusions.',
-  'So, I bid thy farewell.. have a great day!'  ,
+    'So, I bid thy farewell.. have a great day!',
+    'May the force be with you!',
   "<br>"
 ];
 
@@ -28,10 +33,27 @@ whatami = [
 
 social = [
   "<br>",
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/hajay180505' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/hajay180505' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/hajay180505' + "</a>",
-  "<br>"
+  'linkedin              <a href="' +
+    linkedin +
+    '" target="_blank">linkedin/hajay180505' +
+    "</a>",
+  'instagram(personal)   <a href="' +
+    instagram +
+    '" target="_blank">instagram/hajay180505' +
+    "</a>",
+  'instagram(art)        <a href="' +
+    instagram_art +
+    '" target="_blank">instagram/rohan_krishibe' +
+    "</a>",
+  'github                <a href="' +
+    github +
+    '" target="_blank">github/hajay180505' +
+    "</a>",
+  'pinterest             <a href="' +
+    pinterest +
+    '" target="_blank">pinterest/hajay180505' +
+    "</a>",
+  "<br>",
 ];
 
 secret = [
@@ -57,7 +79,7 @@ help = [
   '<span class="command">help</span>           It doesn\'t help',
   '<span class="command">email</span>          Do not email me',
   '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">flex</span>           I don\'t use Arch BTW',
+  '<span class="command">flex</span>           I use Arch BTW',
   '<span class="command">display me</span>     The actor BTS',
   "<br>",
 ];
