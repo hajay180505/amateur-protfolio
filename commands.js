@@ -12,7 +12,7 @@ whois = [
   "¡Hola! 👋 ¿Cómo estás?",
   "Wait... don't go yet.. Imma continue in english..",
   'I am Ajay H (<a href="https://www.youtube.com/watch?v=rFjJs6ZjPe8" target="_blank">Mr.Perfectly fine</a>), an undergraduate student pursuing Masters in Software Systems at <a href="https://www.psgtech.edu/" target="_blank"> PSG Tech</a>. ',
-  "I like origami, papercraft and recently, crocheting.",
+  "I like origami, papercraft and recently, music.",
   "I am interested in open source softwares , GNU/Linux and back-end development,",
   "as you are seeing with the interface that you are presented with. :)",
   "I've currently stumbled on to front-end development, and you all will be casualties of it.",
@@ -26,7 +26,7 @@ whois = [
 
 whatami = [
   "<br>",
-  "Mostly a cat, sometimes a human",
+  "Mostly a cat, sometimes accidentally a human",
   "<br>"
 ];
 
@@ -73,12 +73,12 @@ help = [
   '<span class="command">whatami</span>        What am I?',
   '<span class="command">social</span>         Stalk me',
   '<span class="command">secret</span>         Find the password',
-  '<span class="command">projects</span>       View coding projects',
+  '<span class="command">projects</span>       View my projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           It doesn\'t help',
   '<span class="command">email</span>          Do not email me',
   '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">flex</span>           I use Arch BTW',
+  '<span class="command">flex</span>           I use Arch BTW 💪',
   '<span class="command">display me</span>     The actor BTS',
   "<br>",
 ];
