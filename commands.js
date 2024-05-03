@@ -10,7 +10,7 @@ var pinterest = "https://www.pinterest.com/hajay180505/";
 whois = [
   "<br>",
   "¡Hola! 👋 ¿Cómo estás?",
-  "Wait... don't go yet.. Imma continue in english..",
+  "Wait... don't go yet.. I shall continue in english..",
   'I am Ajay H (<a href="https://www.youtube.com/watch?v=rFjJs6ZjPe8" target="_blank">Mr.Perfectly fine</a>), an undergraduate student pursuing Masters in Software Systems at <a href="https://www.psgtech.edu/" target="_blank"> PSG Tech</a>. ',
   "I like origami, papercraft and recently, music.",
   "I am interested in open source softwares , GNU/Linux and back-end development,",
@@ -79,13 +79,13 @@ help = [
   '<span class="command">email</span>          Do not email me',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">flex</span>           I use Arch BTW 💪',
-  '<span class="command">display me</span>     The actor BTS',
+  '<span class="command">display me</span>     Daring today, aren\'t we? ',
   "<br>",
 ];
-// todo: flex
+
 flex = [
   '--------------------------------------------',
-  '| <span class="index">Ajay H : An interesting person, probably</span> |',
+  '| <span class="index">Ajay H : An interesting person, hopefully</span> |',
   '--------------------------------------------',
   '<br>',
   '&nbsp;█████╗      ██╗ █████╗ ██╗   ██╗    ██╗  ██╗',
