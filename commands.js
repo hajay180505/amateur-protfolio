@@ -26,7 +26,7 @@ whois = [
 
 whatami = [
   "<br>",
-  "Mostly a cat, sometimes accidentally a human",
+  "Mostly a cat, sometimes maybe a human",
   "<br>"
 ];
 
